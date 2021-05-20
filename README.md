@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kenette
-- 👀 I have a hairstyle fetish
-- 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on something?
-- 📫 How to reach me fb.com/kenettedagal
+- 👀 Aspiring Full Stack Developer
+- 🌱 I’m currently learning Front End technologies
+- 📫 How to reach me kenettedagal@gmail.com
 
 <!---
 kenettedagal/kenettedagal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
