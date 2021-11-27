@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kenette
 - 👀 Aspiring Full Stack Developer
-- 🌱 I’m currently learning Front End technologies
 - 📫 How to reach me kenettedagal@gmail.com
 
 <!---
